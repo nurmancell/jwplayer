@@ -207,7 +207,7 @@ body {background-image:url(//3.bp.blogspot.com/-uVpBCiIotxo/WDqSrttP_YI/AAAAAAAA
 }{background:#FAFAFA;background-clip: border-box, border-box;background-origin: padding-box, padding-box;background-size: auto auto, auto auto;background-attachment: fixed;background-repeat: no-repeat;background-position: left bottom, right bottom;color: #3F3F3F;margin: 0px auto;animation: 2s linear 0s normal forwards 1 running body;overflow-x: hidden;font-family: &#39;Yantramanav&#39;, sans-serif;font-size: 11px;}
 #header-wrap {overflow:hidden;padding:10px 0;background-color:rgba(0,0,0,0.6)}
 a:focus {outline:thin dotted;}
-a:link {transition:color 0.4s;outline:none;color:#555;text-decoration:none;}
+a:link {transition:color 0.4s;outline:none;text-decoration:none;}
 a:link:hover {}
 a:hover {text-decoration:underline;outline:none;}
 a:visited {color:#0077B6;text-decoration:none;outline:none;}

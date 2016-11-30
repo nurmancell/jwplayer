@@ -93,17 +93,6 @@ background:#222;color:#fff!important;transition:all .3s ease-out;}
 	font-family:Helvetica,Arial,sans-serif;
 	font-size:12px;
 }
-.genre1{
-  	background:#2C97DF;
-  	color:white;
-  	border-top:0;
-	border-left:0;
-  	border-right:0;
-  	border-bottom:2px solid #2A80B9;
- 	padding:4px 5px;
-	font-family:Helvetica,Arial,sans-serif;
-	font-size:12px;
-}
 #Attribution1 {
 visibility:hidden;
 display:none

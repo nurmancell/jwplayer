@@ -212,10 +212,10 @@ a:link:hover {}
 a:hover {text-decoration:underline;outline:none;}
 a:visited {color:#0077B6;text-decoration:none;outline:none;}
 ::selection{background:rgba(0, 0, 0, 0.1);color:#999;}
-#outer-wrapper{width: 1120px;background-color:rgba(0,0,0,0.6);margin: 0px auto;padding: 0px;}
+#outer-wrapper{width: 1120px;margin: 0px auto;padding: 0px;background-color:rgba(0,0,0,0,6);}
 #main-wrap{width: 800px;float: left;}
 #sidebar-wrap{width:250px;float:left;margin:0px 5px;}
-#content-wrapper{padding: 10px;background-color:rgba(0,0,0,0.6);margin:auto;-webkit-box-shadow: 0 0 3px #CCC;-moz-box-shadow: 0 0 3px #CCC;box-shadow: 0 0 3px #CCC;border-radius: 0px;}
+#content-wrapper{background-color:rgba(0,0,0,0,6);;padding: 10px;margin:auto;-webkit-box-shadow: 0 0 3px #CCC;-moz-box-shadow: 0 0 3px #CCC;box-shadow: 0 0 3px #CCC;border-radius: 0px;}
 h1, h2, h3, h4, h5{font-weight:700;}
 h1{font-size:0em;margin:0;}
 h2{font-size:1.5em;margin:0.83em 0;}

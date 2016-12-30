@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<skin version="1.0" name="sadameku" author="LongTail Video">
+
+	<settings>
+		<setting name="backcolor" value="0x000000" />
+		<setting name="frontcolor" value="0xFFFFFF" />
+		<setting name="lightcolor" value="0x000000" />
+		<setting name="screencolor" value="0x000000" />
+	</settings>
+
+	<components>
+		<component name="controlbar">
+			<settings>
+				<setting name="margin" value="0" />
+				<setting name="fontsize" value="10" />
+			</settings>
+
+			<elements>
+				<element name="background" src="https://1.bp.blogspot.com/-e3ZCOjifYII/WGZ0nrENJPI/AAAAAAAAAqA/1POxl0WAGVMZF_ZjM2xrbN-3e8zbZIF0QCLcB/s320/background.png" />
+								
+				<element name="blankButton" src="https://3.bp.blogspot.com/-N48v5r-ZOaM/WGZ00OJkgdI/AAAAAAAAAqE/jmCu0H9q5804gZ_BV9dxxWCxCYht8T5OQCLcB/s320/blankButton.png" />
+				<element name="blankButtonOver" src="https://3.bp.blogspot.com/-N48v5r-ZOaM/WGZ00OJkgdI/AAAAAAAAAqE/jmCu0H9q5804gZ_BV9dxxWCxCYht8T5OQCLcB/s320/blankButton.png" />
+				
+				<element name="playButton" src="https://2.bp.blogspot.com/-24WCxNBwOMU/WGZ1J7hdTSI/AAAAAAAAAqM/J61OwAM2KWsK4WCbOh9DC_eyWpSMKM3vACLcB/s320/playButton.png" />
+				<element name="playButtonOver" src="https://2.bp.blogspot.com/-24WCxNBwOMU/WGZ1J7hdTSI/AAAAAAAAAqM/J61OwAM2KWsK4WCbOh9DC_eyWpSMKM3vACLcB/s320/playButton.png" />
+				
+				<element name="pauseButton" src="https://3.bp.blogspot.com/-UYlBCLIilZs/WGZ1XIsNXnI/AAAAAAAAAqU/soEKUrmvCOotF2uxZAhE-_rVVcIti0WNwCLcB/s320/pauseButton.png" />
+				<element name="pauseButtonOver" src="https://3.bp.blogspot.com/-UYlBCLIilZs/WGZ1XIsNXnI/AAAAAAAAAqU/soEKUrmvCOotF2uxZAhE-_rVVcIti0WNwCLcB/s320/pauseButton.png" />
+				
+				<element name="timeSliderRail" src="https://3.bp.blogspot.com/-9iiYIe7HdYA/WGZ1gyH3AlI/AAAAAAAAAqY/CCD6zA9oUiIFVJ1l9NjKmZ4mXTodZcUSACLcB/s1600/timeSliderRail.png" />      							
+				<element name="timeSliderBuffer" src="https://1.bp.blogspot.com/-1153gGNyxhY/WGZ1uAlVR6I/AAAAAAAAAqg/fkOCn0EMraMhFpdCzFrfgqFDumDsEjkMACLcB/s1600/timeSliderBuffer.png" />
+				<element name="timeSliderProgress" src="https://2.bp.blogspot.com/-5fAGf8zincg/WGZ19Sx9X0I/AAAAAAAAAqk/Ee2rnKS0EbE3Eih5mQIPV-GHhErxUA67QCLcB/s1600/timeSliderProgress.png" />
+				<element name="timeSliderThumb" src="https://4.bp.blogspot.com/-OqM1bRGKSCY/WGZ2ID2ucoI/AAAAAAAAAqs/aGr5Kij16L46MRVCk1jblGT0JsoyGxyYgCLcB/s1600/timeSliderThumb.png" />
+				
+
+				<element name="muteButton" src="https://1.bp.blogspot.com/-ElbW3dHFmy0/WGZ2SZqTbbI/AAAAAAAAAqw/q4oSTZdsYbMSngmlDdYRZPj9_9mEMUYsgCLcB/s1600/muteButton.png" />
+				<element name="muteButtonOver" src="https://1.bp.blogspot.com/-ElbW3dHFmy0/WGZ2SZqTbbI/AAAAAAAAAqw/q4oSTZdsYbMSngmlDdYRZPj9_9mEMUYsgCLcB/s1600/muteButton.png" />
+				
+				<element name="unmuteButton" src="https://2.bp.blogspot.com/-Mvvg77QMwPc/WGZ2bMoeu9I/AAAAAAAAAq4/zkXahRYpoCcConlIzwBmH4baB_i1Wa4OQCLcB/s1600/unmuteButton.png" />
+				<element name="unmuteButtonOver" src="https://2.bp.blogspot.com/-Mvvg77QMwPc/WGZ2bMoeu9I/AAAAAAAAAq4/zkXahRYpoCcConlIzwBmH4baB_i1Wa4OQCLcB/s1600/unmuteButton.png" />
+				
+				<element name="volumeSliderRail" src="https://3.bp.blogspot.com/-aIi3hjnWKfk/WGZ2lwDY9yI/AAAAAAAAAq8/ck_rdcdYRbkLgzgfzfoKF8-3D60kT_2tACLcB/s1600/volumeSliderRail.png" />
+				<element name="volumeSliderProgress" src="https://1.bp.blogspot.com/-6hPKNR_WLyc/WGZ2tO1lpEI/AAAAAAAAArE/Qt4iTDZ3nWk7B8A8L7g6KoiFgpenyLh9gCLcB/s1600/volumeSliderProgress.png" />
+
+
+				<element name="fullscreenButton" src="https://3.bp.blogspot.com/-otP4Xrspats/WGZ28tZF39I/AAAAAAAAArI/_e7Y5W1fp3g2OEHhb2I23TlmPpYJwLEnwCLcB/s1600/fullscreenButton.png" />
+				<element name="fullscreenButtonOver" src="https://3.bp.blogspot.com/-otP4Xrspats/WGZ28tZF39I/AAAAAAAAArI/_e7Y5W1fp3g2OEHhb2I23TlmPpYJwLEnwCLcB/s1600/fullscreenButton.png" />
+				
+				<element name="normalscreenButton" src="https://2.bp.blogspot.com/-4dld1KSo9mA/WGZ3LOD937I/AAAAAAAAArQ/pneu0ZN6hYQbAPS0XXxMUxh1X-g_AeB8ACLcB/s1600/normalscreenButton.png" />
+				<element name="normalscreenButtonOver" src="https://2.bp.blogspot.com/-4dld1KSo9mA/WGZ3LOD937I/AAAAAAAAArQ/pneu0ZN6hYQbAPS0XXxMUxh1X-g_AeB8ACLcB/s1600/normalscreenButton.png" />
+
+			</elements>
+		</component>
+		
+		<component name="display">
+			<elements>
+				<element name="background" src="https://1.bp.blogspot.com/-e2_cP-hLM4M/WGZ3UR1O9WI/AAAAAAAAArY/FgAB3gXuhXwwDWsxabJsVh9WcOQ7xcuAgCLcB/s1600/background.png" />
+				<element name="playIcon" src="https://4.bp.blogspot.com/-T3oCy6N14ek/WGZ3bug-tGI/AAAAAAAAArc/djsJMa7Bg0M-zsHHy5tgIQINafiZthzHACLcB/s1600/playIcon.png" />
+				<element name="muteIcon" src="https://1.bp.blogspot.com/-E3xzpOueS5k/WGZ3jrF31eI/AAAAAAAAArg/AcKPCZGUXNY_Uf0CGP27n2cs2ZQOw6DogCLcB/s1600/muteIcon.png" />
+				<element name="errorIcon" src="https://3.bp.blogspot.com/-vSkNBo5SOcQ/WGZ3rFJ3aJI/AAAAAAAAArk/gXLSO-gIDbkQmNfcRx-J0nwb9BQTvcu0QCLcB/s1600/errorIcon.png" />
+				<element name="bufferIcon" src="https://4.bp.blogspot.com/-vge2hibM_c4/WGZ32KMvAiI/AAAAAAAAArw/jvTg9P73ZYQftEiOGT1A5eHon8uHzv-XwCLcB/s1600/bufferIcon.png" />
+			</elements>
+		</component>
+		
+		
+
+	</components>
+
+</skin>
